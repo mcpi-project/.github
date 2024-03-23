@@ -4,4 +4,6 @@
 # will everything on here be open sourced?
 ## yes
 
+discord https://discord.gg/epuGMwYgE6
+
 ***this project is made by espero_dev***
